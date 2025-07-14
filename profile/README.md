@@ -76,20 +76,6 @@ To make beautiful, authentic Indian clothing accessible to women worldwide, cele
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=vastra&show_icons=true&theme=gradient&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vastra&layout=compact&theme=gradient)
-
-</div>
-
----
-
 ## 🏆 Our Achievements
 
 - 🛍️ **10,000+** Sarees Sold Worldwide
