@@ -1,14 +1,7 @@
 <div align="center">
 
-# �️ Vastra Pvt Ltd
-### *Where Tr## 🛠️ Our E-commerce Platformdition Meet## 🏆 Our Achievements
-
-- 🛍️ **10,000+** Sarees Sold Worldwide
-- 🌟 **99%** Customer Satisfaction Rate
-- 🌍 **5,000+** Happy Customers Globally
-- 💫 **500+** Unique Designs in Collection
-- 🏅 **Award-Winning** Customer Service Excellence
-- 🌱 **100+** Artisan Partnerships Supporting Traditional Craftn Fashion*
+# 🛍️ Vastra Pvt Ltd
+### *Where Tradition Meets Modern Fashion*
 
 [![Website](https://img.shields.io/badge/Website-vastra.com-pink?style=for-the-badge&logo=globe)](https://vastra.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/vastra)
@@ -30,19 +23,19 @@ To make beautiful, authentic Indian clothing accessible to women worldwide, cele
 
 ### 🔥 What Makes Us Special
 - **🌺 Authentic Heritage**: Handpicked sarees from renowned weavers across India
-- **� Quality Assurance**: Every piece is carefully inspected for quality and authenticity
+- **💫 Quality Assurance**: Every piece is carefully inspected for quality and authenticity
 - **🚚 Fast Delivery**: Quick and secure shipping across India and internationally
-- **� Customer Love**: Personalized styling advice and exceptional customer service
+- **💝 Customer Love**: Personalized styling advice and exceptional customer service
 - **🌍 Global Reach**: Bringing Indian fashion to customers worldwide
 - **♻️ Sustainable Fashion**: Supporting traditional artisans and eco-friendly practices
 
 ---
 
-## �️ Our Collections
+## 🛍️ Our Collections
 
 <div align="center">
 
-| � **Silk Sarees** | 🌿 **Cotton Sarees** | ✨ **Designer Wear** | 👗 **Fusion Wear** |
+| 🌸 **Silk Sarees** | 🌿 **Cotton Sarees** | ✨ **Designer Wear** | 👗 **Fusion Wear** |
 |:---:|:---:|:---:|:---:|
 | Banarasi, Kanjivaram | Handloom, Block Print | Party & Wedding Wear | Indo-Western Outfits |
 | Pure Silk Collection | Organic Cotton | Embroidered Sarees | Modern Kurtas |
@@ -60,9 +53,16 @@ To make beautiful, authentic Indian clothing accessible to women worldwide, cele
 
 ---
 
-## �️ Technologies We Master
+## 🛠️ Our E-commerce Platform
 
 <div align="center">
+
+### Technology Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ### Platform Features
 - 🔍 **Advanced Search & Filters** - Find your perfect saree by fabric, color, occasion, and price
@@ -76,14 +76,28 @@ To make beautiful, authentic Indian clothing accessible to women worldwide, cele
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Organization Stats](https://github-readme-stats.vercel.app/api?username=vastra&show_icons=true&theme=gradient&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vastra&layout=compact&theme=gradient)
+
+</div>
+
+---
 
 ## 🏆 Our Achievements
 
-- 🎯 **500+** Successful Projects Delivered
-- 🌟 **98%** Client Satisfaction Rate
-- � **150+** Happy Clients Worldwide
-- 💡 **50+** Innovative Solutions Developed
-- 🏅 **Industry Recognition** for Excellence in Software Development
+- 🛍️ **10,000+** Sarees Sold Worldwide
+- 🌟 **99%** Customer Satisfaction Rate
+- 🌍 **5,000+** Happy Customers Globally
+- � **500+** Unique Designs in Collection
+- 🏅 **Award-Winning** Customer Service Excellence
+- 🌱 **100+** Artisan Partnerships Supporting Traditional Craft
 
 ---
 
